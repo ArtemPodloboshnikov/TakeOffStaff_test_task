@@ -12,8 +12,8 @@ When writing code, it is necessary to use typing, i.e. not to use :any in the co
 When doing work, it is mandatory to use a state manager (redux, mobx)
 The time to complete the test task is not limited.
 
-##Login page
+### Login page
 To implement authorization, you can use requests with mock data https://github.com/typicode/json-server .
-##Contact List page
+### Contact List page
 The page with the user's contact list should be available only after authorization.
 On the contact list page, it should be possible to add/delete/edit contacts, and it is also desirable to have a search function.
