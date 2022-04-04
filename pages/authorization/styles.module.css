@@ -1,0 +1,13 @@
+.window
+{
+    height: 100vh;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.fields
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
